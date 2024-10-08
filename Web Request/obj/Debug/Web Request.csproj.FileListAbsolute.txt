@@ -1,0 +1,10 @@
+C:\Users\Lenovo-pc\source\repos\Web Request\bin\Debug\Web Request.exe.config
+C:\Users\Lenovo-pc\source\repos\Web Request\bin\Debug\Web Request.exe
+C:\Users\Lenovo-pc\source\repos\Web Request\bin\Debug\Web Request.pdb
+C:\Users\Lenovo-pc\source\repos\Web Request\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo-pc\source\repos\Web Request\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo-pc\source\repos\Web Request\obj\Debug\Web Request.csproj.AssemblyReference.cache
+C:\Users\Lenovo-pc\source\repos\Web Request\obj\Debug\Web Request.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-pc\source\repos\Web Request\obj\Debug\Web Requ.6D036DF4.Up2Date
+C:\Users\Lenovo-pc\source\repos\Web Request\obj\Debug\Web Request.exe
+C:\Users\Lenovo-pc\source\repos\Web Request\obj\Debug\Web Request.pdb
